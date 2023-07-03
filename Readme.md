@@ -13,7 +13,7 @@
 <h3>Flowchart</h3>
 <img src="./img/Soal1.png" width="1114" align="center" alt="Soal 1">
 
-<h1>Reserve Words</h1>
+<h1>Reverse Words</h1>
 <h3>Algoritma</h3>
 <ol>
     <li>Input Kalimat Kedalam variabel sentence.</li>
